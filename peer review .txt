@@ -1,0 +1,31 @@
+My Name: 王宇飞
+Matric Number: 122260910069
+
+Group Member Name:	王宇飞		Score: 3
+Group Member Name:	鲁君一		Score: 3
+Group Member Name:	陈子啸		Score: 3
+Group Member Name:	叶恒宇		Score: 3
+
+My Name: 叶恒宇 
+Matric Number: 122033910143
+
+Group Member Name:	王宇飞		Score: 3
+Group Member Name:	鲁君一		Score: 3
+Group Member Name:	陈子啸		Score: 3
+Group Member Name:	叶恒宇		Score: 3
+
+My Name: 陈子啸 
+Matric Number: 022033910076
+
+Group Member Name:	王宇飞		Score: 3
+Group Member Name:	鲁君一		Score: 3
+Group Member Name:	陈子啸		Score: 3
+Group Member Name:	叶恒宇		Score: 3
+
+My Name: 鲁君一
+Matric Number: 122260910061
+
+Group Member Name:	王宇飞		Score: 3
+Group Member Name:	鲁君一		Score: 3
+Group Member Name:	陈子啸		Score: 3
+Group Member Name:	叶恒宇		Score: 3
